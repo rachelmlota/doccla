@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Author's part
+You should run `cp .env.example .env` to clone the env variables before running the application. 
+You can also run the tests using `yarn test`
+
 ## Available Scripts
 
 In the project directory, you can run:
