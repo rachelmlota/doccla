@@ -18,6 +18,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `yarn cypress:open`
+This runs the e2es test for the entire application. P.S. This should come after the `yarn start` command. See the cypress folder.
+![Cypress test screenshot](./src//tests/cypress-feedback/cypress-shot.png?raw=true "Cypress Screenshot")
+
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
